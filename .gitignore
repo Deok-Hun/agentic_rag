@@ -1,0 +1,3 @@
+.env
+database/embedding_model/*
+database/vectorstore/*
